@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="urlLabel">URL:</string>
+    <string name="urlHint">File URL</string>
+    <string name="infoButtonLabel">Get informations</string>
+    <string name="sizeLabel">File size: </string>
+    <string name="defaultSize">0</string>
+    <string name="typeLabel">File type: </string>
+    <string name="downloadButtonLabel">Download file</string>
+    <string name="downloadedLabel">Downloaded bytes: </string>
+    <string name="defaultAddress">https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.36.tar.xz</string>
+</resources>
